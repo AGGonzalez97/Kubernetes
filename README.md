@@ -18,3 +18,21 @@ Para realizar esta práctica se han seguido los siguientes pasos:
 ### kubectl get services (ip externas)
 ![21-2](https://user-images.githubusercontent.com/29304115/121077877-7bdee280-c7d8-11eb-8b23-ebc57498058a.PNG)
 
+# 4.- Comprobar que las ips funcionan
+### Result -> Ip: 35.222.45.196:5001 
+![21-2](https://user-images.githubusercontent.com/29304115/121078117-cfe9c700-c7d8-11eb-9b83-30f5c5a717d3.PNG)
+### Vote -> Ip: 34.70.152.251:5000
+![23](https://user-images.githubusercontent.com/29304115/121078183-e5f78780-c7d8-11eb-8a45-16f46e10cf60.PNG)
+### Volvemos a Result para comprobar que se ha actualizado la votación
+![24](https://user-images.githubusercontent.com/29304115/121078234-f60f6700-c7d8-11eb-864e-17479ab6d036.PNG)
+
+# 5.- Cambiar el número de nodos de 3 (default) a 5
+![25](https://user-images.githubusercontent.com/29304115/121078330-1c350700-c7d9-11eb-9f67-b141409ff5ad.PNG)
+
+# 6.- Escalar cluster a 2 resplicas
+![26](https://user-images.githubusercontent.com/29304115/121078401-353db800-c7d9-11eb-8982-cb430a8f5f97.PNG)
+
+# 7.- Actualizar la imagen de postgres
+![27](https://user-images.githubusercontent.com/29304115/121078473-4e466900-c7d9-11eb-9a13-979f450ad4fc.PNG)
+
+
