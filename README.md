@@ -10,3 +10,11 @@ Para realizar esta práctica se han seguido los siguientes pasos:
 
 # 3.- Ejecutar los siguientes comandos dentro de la consola
 ### git clone https://github.com/jluisalvarez/k8s-vote-app
+### cd k8s-vote-app
+### nano vote-service.yaml (Cambiar NodePort por LoadBalancer)  
+### nano result-service.yaml (Cambiar NodePort por LoadBalancer)
+![21](https://user-images.githubusercontent.com/29304115/121077776-54881580-c7d8-11eb-9951-1fb14228fefd.PNG)
+### kubectl apply -f . 
+### kubectl get services (ip externas)
+![21-2](https://user-images.githubusercontent.com/29304115/121077877-7bdee280-c7d8-11eb-8b23-ebc57498058a.PNG)
+
