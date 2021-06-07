@@ -19,7 +19,7 @@
 
 # 4.- Comprobar que las ips funcionan
 ### Result -> Ip: 35.222.45.196:5001 
-![21-2](https://user-images.githubusercontent.com/29304115/121078117-cfe9c700-c7d8-11eb-9b83-30f5c5a717d3.PNG)
+![22](https://user-images.githubusercontent.com/29304115/121078623-7b931700-c7d9-11eb-8f45-7aaf6dd65382.PNG)
 ### Vote -> Ip: 34.70.152.251:5000
 ![23](https://user-images.githubusercontent.com/29304115/121078183-e5f78780-c7d8-11eb-8a45-16f46e10cf60.PNG)
 ### Volvemos a Result para comprobar que se ha actualizado la votación
